@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DASAPP</string>
+    <string name="start">开始</string>
+    <string name="adress">地址</string>
 </resources>
